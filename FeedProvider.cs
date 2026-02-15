@@ -45,8 +45,9 @@ namespace FeedlyFeedProvider
         {
             try
             {
-                // Get feed data from Feedly - using Task.Run to avoid blocking
-                var feedData = Task.Run(() => _feedlyClient.GetFeedDataAsync()).GetAwaiter().GetResult();
+                // Get feed data from Feedly
+                // Note: IFeedProvider interface requires synchronous methods
+                var feedData = _feedlyClient.GetFeedDataAsync().GetAwaiter().GetResult();
                 
                 return new FeedProviderGetFeedDataResult
                 {

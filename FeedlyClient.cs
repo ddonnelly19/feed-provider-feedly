@@ -12,17 +12,24 @@ namespace FeedlyFeedProvider
     /// </summary>
     public class FeedlyClient
     {
-        private static readonly HttpClient _httpClient = new HttpClient();
+        private static readonly HttpClient _httpClient;
         private readonly string _feedlyApiUrl = "https://cloud.feedly.com/v3";
         private string? _accessToken;
+
+        /// <summary>
+        /// Static constructor to initialize the shared HttpClient
+        /// </summary>
+        static FeedlyClient()
+        {
+            _httpClient = new HttpClient();
+            _httpClient.DefaultRequestHeaders.Add("User-Agent", "FeedlyFeedProvider/1.0");
+        }
 
         /// <summary>
         /// Initializes a new instance of the FeedlyClient
         /// </summary>
         public FeedlyClient()
         {
-            _httpClient.DefaultRequestHeaders.Remove("User-Agent");
-            _httpClient.DefaultRequestHeaders.Add("User-Agent", "FeedlyFeedProvider/1.0");
         }
 
         /// <summary>
