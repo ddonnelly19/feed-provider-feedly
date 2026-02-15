@@ -9,7 +9,7 @@ namespace FeedlyFeedProvider
         [STAThread]
         static void Main(string[] args)
         {
-            Console.WriteLine("Feedly Feed Provider starting...");
+            Console.WriteLine("OPML Feed Provider starting...");
 
             // Register COM class factory
             var classFactory = new FeedProviderClassFactory();

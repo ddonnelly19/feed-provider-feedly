@@ -12,8 +12,8 @@
     Version="1.0.0.0" />
 
   <Properties>
-    <DisplayName>Feedly Feed Provider</DisplayName>
-    <PublisherDisplayName>Feedly Feed Provider</PublisherDisplayName>
+    <DisplayName>OPML Feed Provider</DisplayName>
+    <PublisherDisplayName>OPML Feed Provider</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -28,8 +28,8 @@
   <Applications>
     <Application Id="App" Executable="FeedlyFeedProvider.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements
-        DisplayName="Feedly Feed Provider"
-        Description="A feed provider that displays Feedly feeds in Microsoft Widgets"
+        DisplayName="OPML Feed Provider"
+        Description="A feed provider that displays feeds from OPML files in Microsoft Widgets"
         BackgroundColor="transparent"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png">
@@ -39,7 +39,7 @@
         <uap3:Extension Category="windows.appExtension">
           <uap3:AppExtension
             Name="com.microsoft.windows.feed"
-            DisplayName="Feedly Feed Provider"
+            DisplayName="OPML Feed Provider"
             Id="FeedlyFeedProvider">
             <uap3:Properties>
               <FeedProvider>
