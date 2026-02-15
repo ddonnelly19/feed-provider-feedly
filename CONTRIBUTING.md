@@ -1,6 +1,6 @@
-# Contributing to Feedly Feed Provider
+# Contributing to OPML Feed Provider
 
-Thank you for your interest in contributing to the Feedly Feed Provider for Microsoft Widgets!
+Thank you for your interest in contributing to the OPML Feed Provider for Microsoft Widgets!
 
 ## How to Contribute
 
@@ -74,8 +74,8 @@ When making changes:
 1. Build the project successfully
 2. Run the feed provider
 3. Verify it appears in Windows Widgets
-4. Check that feeds load correctly
-5. Test with different Feedly configurations
+4. Check that feeds load correctly from the OPML file
+5. Test with different OPML file configurations
 
 ## Questions?
 
