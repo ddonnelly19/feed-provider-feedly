@@ -1,0 +1,6 @@
+{
+  "OpmlFeedProvider": {
+    "OpmlFilePath": "feedls.opml",
+    "Description": "Feed provider using OPML file as source"
+  }
+}
