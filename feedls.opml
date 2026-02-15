@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Dennis subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Royals" title="Royals">
+            <outline type="rss" text="Royals Review" title="Royals Review" xmlUrl="http://royalsreview.com/rss2/index.xml" htmlUrl="https://www.royalsreview.com"/>
+        </outline>
+        <outline text="Local" title="Local">
+            <outline type="rss" text="Johnson County KS News &amp; Sports |" title="Johnson County KS News &amp; Sports |" xmlUrl="http://www.kansascity.com/news/local/community/joco-913/?widgetName=rssfeed&amp;widgetContentId=6199&amp;getXmlFeed=true" htmlUrl="https://www.kansascity.com/news/local/community/johnson-county/"/>
+            <outline type="rss" text="The Kansas City Defender" title="The Kansas City Defender" xmlUrl="https://kansascitydefender.com/feed/" htmlUrl="https://kansascitydefender.com/"/>
+            <outline type="rss" text="FOX 4 Kansas City WDAF-TV | News, Weather, Sports" title="FOX 4 Kansas City WDAF-TV | News, Weather, Sports" xmlUrl="http://fox4kc.com/feed/" htmlUrl="https://fox4kc.com"/>
+            <outline type="rss" text="KC Confidential" title="KC Confidential" xmlUrl="http://www.kcconfidential.com/?feed=rss2" htmlUrl="https://www.kcconfidential.com"/>
+            <outline type="rss" text="Johnson County Post" title="Johnson County Post" xmlUrl="https://shawneemissionpost.com/feed" htmlUrl="https://johnsoncountypost.com/"/>
+            <outline type="rss" text="JoCoHistory Blog" title="JoCoHistory Blog" xmlUrl="https://jocohistory.wordpress.com/feed/" htmlUrl="https://jocohistory.wordpress.com"/>
+        </outline>
+        <outline text="Chiefs" title="Chiefs">
+            <outline type="rss" text="Arrowhead Pride" title="Arrowhead Pride" xmlUrl="http://www.arrowheadpride.com/rss/current" htmlUrl="https://www.arrowheadpride.com/"/>
+            <outline type="rss" text="Latest Kansas City Chiefs Football News |" title="Latest Kansas City Chiefs Football News |" xmlUrl="http://www.kansascity.com/sports/nfl/kansas-city-chiefs/?widgetName=rssfeed&amp;widgetContentId=6199&amp;getXmlFeed=true" htmlUrl="https://www.kansascity.com/sports/nfl/kansas-city-chiefs/"/>
+            <outline type="rss" text="Kansas City Chiefs - The Athletic" title="Kansas City Chiefs - The Athletic" xmlUrl="https://theathletic.com/team/chiefs/?rss" htmlUrl="https://www.nytimes.com/athletic/nfl/team/chiefs/"/>
+        </outline>
+        <outline text="Humor" title="Humor">
+            <outline type="rss" text="Tom Tomorrow" title="Tom Tomorrow" xmlUrl="https://www.dailykos.com/blogs/Tom-Tomorrow.rss" htmlUrl="https://www.dailykos.com/blogs/Tom%20Tomorrow?pm_campaign=blog&amp;pm_medium=rss&amp;pm_source=Tom%20Tomorrow"/>
+        </outline>
+        <outline text="Google" title="Google">
+            <outline type="rss" text="Home Assistant" title="Home Assistant" xmlUrl="https://home-assistant.io/atom.xml" htmlUrl="https://www.home-assistant.io/"/>
+            <outline type="rss" text="Gmail Blog" title="Gmail Blog" xmlUrl="http://gmailblog.blogspot.com/feeds/posts/default" htmlUrl="https://blog.google/products-and-platforms/products/gmail/"/>
+            <outline type="rss" text="Gmail Blog" title="Gmail Blog" xmlUrl="http://feeds.feedburner.com/OfficialGmailBlog" htmlUrl="https://blog.google/products-and-platforms/products/gmail/"/>
+            <outline type="rss" text="Chromium Blog" title="Chromium Blog" xmlUrl="http://blog.chromium.org/feeds/posts/default" htmlUrl="http://blog.chromium.org/"/>
+            <outline type="rss" text="Blog" title="Blog" xmlUrl="http://googlefiberblog.blogspot.com/feeds/posts/default" htmlUrl="http://fiber.googleblog.com/"/>
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="https://blog.google/"/>
+            <outline type="rss" text="9to5Google" title="9to5Google" xmlUrl="https://9to5google.com/feed/" htmlUrl="https://9to5google.com/"/>
+        </outline>
+        <outline text="Weather" title="Weather">
+            <outline type="rss" text="United States Tornadoes" title="United States Tornadoes" xmlUrl="http://www.ustornadoes.com/feed/" htmlUrl="https://www.ustornadoes.com/"/>
+            <outline type="rss" text="Windy: Wind map &amp; weather forecast" title="Windy: Wind map &amp; weather forecast" xmlUrl="https://www.windy.com/feeds/rss" htmlUrl="https://windy.com/"/>
+            <outline type="rss" text="SPC Forecast Products" title="SPC Forecast Products" xmlUrl="http://www.spc.noaa.gov/products/spcrss.xml" htmlUrl="https://www.spc.noaa.gov/"/>
+        </outline>
+        <outline text="Entertainment" title="Entertainment">
+            <outline type="rss" text="Inconspicuous Consumption" title="Inconspicuous Consumption" xmlUrl="https://paullukas.substack.com/feed" htmlUrl="https://www.inconspicuous.info"/>
+            <outline type="rss" text="UPROXX" title="UPROXX" xmlUrl="http://uproxx.com/feed/" htmlUrl="https://uproxx.com"/>
+        </outline>
+        <outline text="Games" title="Games">
+            <outline type="rss" text="Xbox Wire" title="Xbox Wire" xmlUrl="https://news.xbox.com/en-us/feed/" htmlUrl="https://news.xbox.com/en-us/"/>
+            <outline type="rss" text="Operation Sports" title="Operation Sports" xmlUrl="http://www.operationsports.com/feed/" htmlUrl="https://www.operationsports.com/"/>
+            <outline type="rss" text="pastapadre.com" title="pastapadre.com" xmlUrl="http://www.pastapadre.com/feed" htmlUrl="https://www.pastapadre.com"/>
+            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com"/>
+            <outline type="rss" text="PlayStation Store – PlayStation.Blog" title="PlayStation Store – PlayStation.Blog" xmlUrl="http://blog.us.playstation.com/tag/playstation-store/feed/" htmlUrl="https://blog.playstation.com"/>
+            <outline type="rss" text="MLB® The Show™" title="MLB® The Show™" xmlUrl="https://theshow.com/feed/" htmlUrl="https://theshow.com/"/>
+            <outline type="rss" text="1675200 RSS Feed" title="1675200 RSS Feed" xmlUrl="https://store.steampowered.com/feeds/news/app/1675200/?cc=US&amp;l=english&amp;snr=1_2108_9__2107" htmlUrl="https://store.steampowered.com/news/app/1675200/"/>
+            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://kotaku.com/vip.xml" htmlUrl="https://kotaku.com/"/>
+            <outline type="rss" text="Libretro" title="Libretro" xmlUrl="https://www.libretro.com/index.php/feed/" htmlUrl="https://www.libretro.com"/>
+            <outline type="rss" text="The Gaming Tailgate" title="The Gaming Tailgate" xmlUrl="http://www.thegamingtailgate.com/forums/external.php?do=rss&amp;type=newcontent&amp;sectionid=1&amp;days=120&amp;count=10" htmlUrl="https://www.thegamingtailgate.com/forums"/>
+        </outline>
+        <outline text="Wrestling" title="Wrestling">
+            <outline type="rss" text="Cageside Seats - All Posts" title="Cageside Seats - All Posts" xmlUrl="http://www.cagesideseats.com/rss/current" htmlUrl="https://www.cagesideseats.com/"/>
+            <outline type="rss" text="Bleacher Report - WWE" title="Bleacher Report - WWE" xmlUrl="http://bleacherreport.com/articles/feed?tag_id=2182" htmlUrl="https://bleacherreport.com"/>
+        </outline>
+        <outline text="Servicenow" title="Servicenow">
+            <outline type="rss" text="Ben Gribaudo" title="Ben Gribaudo" xmlUrl="https://bengribaudo.com/feed" htmlUrl="https://bengribaudo.com"/>
+            <outline type="rss" text="ITOM articles articles" title="ITOM articles articles" xmlUrl="https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=it-operations-management-kb" htmlUrl="https://www.servicenow.com/community/itom-articles/tkb-p/it-operations-management-kb"/>
+            <outline type="rss" text="ServicePortal.io" title="ServicePortal.io" xmlUrl="http://servicenowcms.com/feed/" htmlUrl="https://serviceportal.io"/>
+            <outline type="rss" text="ITOM blog articles" title="ITOM blog articles" xmlUrl="https://www.servicenow.com/community/s/cgfwn76974/rss/board?board.id=it-operations-management-blog" htmlUrl="https://www.servicenow.com/community/itom-blog/bg-p/it-operations-management-blog"/>
+            <outline type="rss" text="Eric's Blog Blog" title="Eric's Blog Blog" xmlUrl="https://snwizard.com/rss.xml" htmlUrl="https://snwizard.com/"/>
+            <outline type="rss" text="Chris Webb's BI Blog" title="Chris Webb's BI Blog" xmlUrl="http://cwebbbi.spaces.live.com/feed.rss" htmlUrl="https://blog.crossjoin.co.uk"/>
+            <outline type="rss" text="Guy in a Cube" title="Guy in a Cube" xmlUrl="https://guyinacube.com/feed/" htmlUrl="https://guyinacube.com/"/>
+            <outline type="rss" text="The SN Nerd" title="The SN Nerd" xmlUrl="https://sn-nerd.com/feed/" htmlUrl="https://sn-nerd.com/"/>
+            <outline type="rss" text="ServiceNow Guru" title="ServiceNow Guru" xmlUrl="http://feeds.feedburner.com/sncguru" htmlUrl="https://servicenowguru.com/"/>
+            <outline type="rss" text="ServiceNow Developer Pro-Tips" title="ServiceNow Developer Pro-Tips" xmlUrl="http://www.servicenowprotips.com/blog?format=RSS" htmlUrl="https://snprotips.com/"/>
+            <outline type="rss" text="snhackery" title="snhackery" xmlUrl="https://snhackery.com/feed/" htmlUrl="https://snhackery.com"/>
+            <outline type="rss" text="jace.pro" title="jace.pro" xmlUrl="https://blog.jacebenson.com/index.xml" htmlUrl="https://jace.pro/"/>
+        </outline>
+        <outline text="Roads" title="Roads">
+            <outline type="rss" text="Richie Kennedy | route56.com » Feed" title="Richie Kennedy | route56.com » Feed" xmlUrl="https://www.route56.com/feed/" htmlUrl="https://www.route56.com"/>
+            <outline type="rss" text="AARoads" title="AARoads" xmlUrl="http://www.aaroads.com/blog/feed/" htmlUrl="https://www.aaroads.com/blog"/>
+            <outline type="rss" text="Interstate-Guide.com » Feed" title="Interstate-Guide.com » Feed" xmlUrl="https://www.interstate-guide.com/feed/" htmlUrl="https://www.interstate-guide.com"/>
+        </outline>
+        <outline text="Sports" title="Sports">
+            <outline type="rss" text="Football Zebras.com" title="Football Zebras.com" xmlUrl="http://www.footballzebras.com/feed/" htmlUrl="https://www.footballzebras.com"/>
+            <outline type="rss" text="The Gridiron Uniform Database" title="The Gridiron Uniform Database" xmlUrl="http://nfluniforms.blogspot.com/feeds/posts/default" htmlUrl="http://nfluniforms.blogspot.com/"/>
+            <outline type="rss" text="Chris Creamer's SportsLogos.Net News and Blog : New Logos and New Uniforms news, photos, and rumoursChris Creamer's SportsLogos.Net News and Blog : New Logos and New Uniforms news, photos, and rumours" title="Chris Creamer's SportsLogos.Net News and Blog : New Logos and New Uniforms news, photos, and rumoursChris Creamer's SportsLogos.Net News and Blog : New Logos and New Uniforms news, photos, and rumours" xmlUrl="http://news.sportslogos.net/feed/" htmlUrl="https://news.sportslogos.net"/>
+            <outline type="rss" text="Secret Base" title="Secret Base" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDRmGMSgrtZkOsh_NQl4_xw" htmlUrl="https://www.youtube.com/channel/UCDRmGMSgrtZkOsh_NQl4_xw"/>
+            <outline type="rss" text="FanGraphs Baseball" title="FanGraphs Baseball" xmlUrl="http://www.fangraphs.com/blogs/?feed=rss2" htmlUrl="https://blogs.fangraphs.com"/>
+            <outline type="rss" text="For Pete's Sake: Sports Columns &amp; Blogs | KansasCity.com &amp;" title="For Pete's Sake: Sports Columns &amp; Blogs | KansasCity.com &amp;" xmlUrl="http://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/?widgetName=rssfeed&amp;widgetContentId=6199&amp;getXmlFeed=true" htmlUrl="https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/"/>
+            <outline type="rss" text="Uni Watch" title="Uni Watch" xmlUrl="http://www.uni-watch.com/feed/" htmlUrl="https://uni-watch.com"/>
+            <outline type="rss" text="Awful Announcing - Putting Announcers on Notice Since 2006" title="Awful Announcing - Putting Announcers on Notice Since 2006" xmlUrl="http://awfulannouncing.com/feed/rss.html" htmlUrl="https://awfulannouncing.com/"/>
+            <outline type="rss" text="Kansas City - The Athletic" title="Kansas City - The Athletic" xmlUrl="https://theathletic.com/kc/?rss" htmlUrl="https://www.nytimes.com/athletic/location/kc/"/>
+            <outline type="rss" text="Field of Schemes" title="Field of Schemes" xmlUrl="http://www.fieldofschemes.com/news/index.rdf" htmlUrl="https://www.fieldofschemes.com"/>
+            <outline type="rss" text="Defector" title="Defector" xmlUrl="https://defector.com/feed/" htmlUrl="https://defector.com/"/>
+        </outline>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="DSLreports - front page" title="DSLreports - front page" xmlUrl="http://www.dslreports.com/rss20.xml" htmlUrl="http://www.dslreports.com"/>
+            <outline type="rss" text="Paul Thurrott's SuperSite for Windows" title="Paul Thurrott's SuperSite for Windows" xmlUrl="http://www.winsupersite.com/supersite.xml" htmlUrl="https://www.itprotoday.com"/>
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" htmlUrl="https://lifehacker.com/feed/rss"/>
+            <outline type="rss" text="Redmond Pie" title="Redmond Pie" xmlUrl="http://www.redmondpie.com/feed/" htmlUrl="https://www.redmondpie.com"/>
+            <outline type="rss" text="AnandTech" title="AnandTech" xmlUrl="http://www.anandtech.com/rss/" htmlUrl="https://www.anandtech.com"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/frontpage" htmlUrl="https://www.theverge.com/"/>
+            <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="http://www.gizmodo.com/index.xml" htmlUrl="https://gizmodo.com/"/>
+        </outline>
+        <outline text="Weather - Local" title="Weather - Local">
+            <outline type="rss" text="Weather Blogs" title="Weather Blogs" xmlUrl="https://www.kshb.com/weather/weather-blogs.rss" htmlUrl="https://www.kshb.com/weather/weather-blogs"/>
+            <outline type="rss" text="Kansas City/Pleasant Hill, MO" title="Kansas City/Pleasant Hill, MO" xmlUrl="https://www.weather.gov/rss_page.php?site_name=eax" htmlUrl="https://www.weather.gov/eax"/>
+            <outline type="rss" text="Joe's Weather Blog | In-depth Kansas City forecasts | FOX4KC" title="Joe's Weather Blog | In-depth Kansas City forecasts | FOX4KC" xmlUrl="http://fox4kc.com/category/weather/weather-blog/feed/" htmlUrl="https://fox4kc.com"/>
+            <outline type="rss" text="Weather News" title="Weather News" xmlUrl="https://feeds.mcclatchy.com/kansascity/sections/news/weather-news/stories" htmlUrl="https://www.kansascity.com/news/weather-news/"/>
+            <outline type="rss" text="Topeka, KS" title="Topeka, KS" xmlUrl="https://www.weather.gov/rss_page.php?site_name=top" htmlUrl="https://www.weather.gov/top"/>
+        </outline>
+        <outline text="Must Read" title="Must Read">
+            <outline type="rss" text="Inconspicuous Consumption" title="Inconspicuous Consumption" xmlUrl="https://paullukas.substack.com/feed" htmlUrl="https://www.inconspicuous.info"/>
+            <outline type="rss" text="Home Assistant" title="Home Assistant" xmlUrl="https://home-assistant.io/atom.xml" htmlUrl="https://www.home-assistant.io/"/>
+            <outline type="rss" text="Awful Announcing - Putting Announcers on Notice Since 2006" title="Awful Announcing - Putting Announcers on Notice Since 2006" xmlUrl="http://awfulannouncing.com/feed/rss.html" htmlUrl="https://awfulannouncing.com/"/>
+            <outline type="rss" text="Defector" title="Defector" xmlUrl="https://defector.com/feed/" htmlUrl="https://defector.com/"/>
+        </outline>
+    </body>
+</opml>
