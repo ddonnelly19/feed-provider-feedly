@@ -1,7 +1,6 @@
 {
-  "Feedly": {
-    "AccessToken": "",
-    "StreamId": "user/YOUR_USER_ID/category/global.all",
-    "FeedCount": 10
+  "OpmlFeedProvider": {
+    "OpmlFilePath": "feedls.opml",
+    "Description": "Feed provider using OPML file as source"
   }
 }
