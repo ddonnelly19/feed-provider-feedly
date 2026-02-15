@@ -12,7 +12,7 @@ namespace FeedlyFeedProvider
     /// </summary>
     public class FeedlyClient
     {
-        private static readonly HttpClient _httpClient;
+        private static readonly HttpClient s_httpClient;
         private readonly string _feedlyApiUrl = "https://cloud.feedly.com/v3";
         private string? _accessToken;
 
@@ -21,8 +21,8 @@ namespace FeedlyFeedProvider
         /// </summary>
         static FeedlyClient()
         {
-            _httpClient = new HttpClient();
-            _httpClient.DefaultRequestHeaders.Add("User-Agent", "FeedlyFeedProvider/1.0");
+            s_httpClient = new HttpClient();
+            s_httpClient.DefaultRequestHeaders.Add("User-Agent", "FeedlyFeedProvider/1.0");
         }
 
         /// <summary>
@@ -86,7 +86,7 @@ namespace FeedlyFeedProvider
             var request = new HttpRequestMessage(HttpMethod.Get, url);
             request.Headers.Add("Authorization", $"OAuth {_accessToken}");
 
-            var response = await _httpClient.SendAsync(request);
+            var response = await s_httpClient.SendAsync(request);
             response.EnsureSuccessStatusCode();
 
             return await response.Content.ReadAsStringAsync();
@@ -107,7 +107,7 @@ namespace FeedlyFeedProvider
             var request = new HttpRequestMessage(HttpMethod.Get, url);
             request.Headers.Add("Authorization", $"OAuth {_accessToken}");
 
-            var response = await _httpClient.SendAsync(request);
+            var response = await s_httpClient.SendAsync(request);
             response.EnsureSuccessStatusCode();
 
             return await response.Content.ReadAsStringAsync();

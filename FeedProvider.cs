@@ -49,6 +49,8 @@ namespace FeedlyFeedProvider
                 // Note: IFeedProvider interface requires synchronous methods
                 var feedData = _feedlyClient.GetFeedDataAsync().GetAwaiter().GetResult();
                 
+                // Note: ContentUri can accept either a URI or JSON content
+                // For feed providers, JSON content is often returned directly
                 return new FeedProviderGetFeedDataResult
                 {
                     Status = FeedProviderGetFeedDataStatus.Success,
